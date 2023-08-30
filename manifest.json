@@ -1,0 +1,10 @@
+{
+  "name": "Accesibility Id",
+  "id": "1278841077142033531",
+  "api": "1.0.0",
+  "editorType": ["dev", "figma"],
+  "capabilities": ["codegen", "inspect"],
+  "main": "code.js",
+  "permissions": [],
+  "codegenLanguages": [{ "label": "Text", "value": "text" }]
+}
